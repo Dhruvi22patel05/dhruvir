@@ -1,0 +1,18 @@
+
+
+.navbar-custom{
+    background-color: #3d434f;
+}
+
+.hoverable ul a:hover{
+
+    font-size: 20px;
+    animation-name: swing;
+    animation-timing-function: ease;
+}
+
+
+.timerp{
+    display: inline;
+    font-size: 30px;
+  }
